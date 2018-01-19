@@ -1,0 +1,15 @@
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\bin\Debug\WpfAppN3.exe.config
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\bin\Debug\WpfAppN3.exe
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\bin\Debug\WpfAppN3.pdb
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3.csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\MainWindow.g.cs
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\App.g.cs
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3_MarkupCompile.cache
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3_MarkupCompile.lref
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\MainWindow.baml
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3.g.resources
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3.Properties.Resources.resources
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3.csproj.GenerateResource.Cache
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3.csproj.CoreCompileInputs.cache
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3.exe
+C:\Users\ПетренковН\source\repos\WpfAppN3\WpfAppN3\obj\Debug\WpfAppN3.pdb
